@@ -1,0 +1,10 @@
+body{
+    height: 800px;
+}
+.container{
+    display: flex;
+    margin: auto;
+    height: 80%;
+    width: 30%;
+    background-color: rgb(176, 109, 210);
+}
